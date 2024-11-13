@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "3a8aef20a9283481",
+    "type": "split",
+    "children": [
+      {
+        "id": "467cb96cc8b6b6e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfc94b5c07f3d96d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Learning"
+            }
+          },
+          {
+            "id": "e827d55e79b3e0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kafka Interview Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kafka Interview Questions"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75511316dd6e5b0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9237ed69ff3fff71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d075b24e764b007",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "991200bd7b262356",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "userid",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53d410bb543af191",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9bef4aaaf88661e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c73241c1064a527f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32e09d7aa2d675c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wealth/Capital Gains.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Capital Gains"
+            }
+          },
+          {
+            "id": "8559a7dd7d66892f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wealth/Capital Gains.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Capital Gains"
+            }
+          },
+          {
+            "id": "bca3cbcbdd500981",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "53acadaeca8aca3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wealth/Capital Gains.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Capital Gains"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e827d55e79b3e0a4",
+  "lastOpenFiles": [
+    "My Learning.md",
+    "Kafka Interview Questions.md",
+    "My Wealth.md",
+    "wealth/Bank.md",
+    "wealth/Estimation of Average Monthly Costs.md",
+    "Pasted image 20241110103127.png",
+    "Pasted image 20241110103122.png",
+    "Pasted image 20241110103041.png",
+    "My USA Checklist.md",
+    "My Investment.md",
+    "code/How to consume messages from Kafka broker.md",
+    "code/Terminologies used in Kafka.md",
+    "My Project.md",
+    "Kafka's Post Office.md",
+    "code/Kafka.md",
+    "code/Problems tackled by Kafka.md",
+    "code/Kafka's Thumb Rules.md",
+    "My Health.md",
+    "health/Vocal Cord Check Up List.md",
+    "PLSQL.md",
+    "PL/SQL.md",
+    "PL",
+    "code/Job Search.md",
+    "code/Job Application Updates.md",
+    "literature/TVK செயற்குழுக் கூட்டம்.md",
+    "literature/Parandur Airport.md",
+    "literature/TVK.md",
+    "My Arasiyal.md",
+    "literature/Pasted image 20241103211504.png",
+    "health/Magnesium Benefits.md",
+    "code/Pasted image 20241026221009.png",
+    "health/Best and Worst Forms of Magnesium.md",
+    "Pasted image 20241103212117.png",
+    "Pasted image 20241103212212.png",
+    "Pasted image 20241103212040.png",
+    "Pasted image 20241103212205.png",
+    "Pasted image 20241103212140.png",
+    "Untitled",
+    "personal",
+    "wealth/ultimate-index-fund-cheatsheet.pdf",
+    "literature",
+    "code",
+    "wealth",
+    "health"
+  ]
+}

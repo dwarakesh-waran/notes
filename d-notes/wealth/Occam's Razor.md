@@ -1,0 +1,3 @@
+Using Occam's Razor in **Index Fund Investing:** Instead of trying to time the market or pick individual stocks, many investors choose low-cost index funds that track the overall market. This strategy is simple, transparent, and backed by a substantial body of research showing that it often outperforms actively managed funds over the long term.
+
+And that too, instead of taking a lot of time on how to allocate money to different funds, choose  5 fund portfolio in the beginning and gradually reduce it to 3 fund portfolio. This way, you can also experiment with other index funds.

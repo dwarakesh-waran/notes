@@ -1,0 +1,1 @@
+Asset Management Company or a Fund House which manages all the shares of companies in a mutual fund.
