@@ -5,3 +5,4 @@
 #qna is used to raise questions possible doubts and giving clarification to those doubts. The statement should be in italic.
 #analogy is used to make a definition understand easier by given a similar real life scenario.
 #later is used to do a task in the future at any cost.
+#codecheck is used to review the statement related to programming later and make corrections if necessary.

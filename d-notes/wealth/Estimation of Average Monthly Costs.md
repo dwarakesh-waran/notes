@@ -1,4 +1,4 @@
-Topic: [[My Investment]]
+Topic: [[My Wealth]]
 
 Monthly Average of cost spent on my top categories in the last 16 months (July 2023 to October 2024)
 
@@ -8,6 +8,10 @@ Monthly Average of cost spent on my top categories in the last 16 months (July 2
 | Meat         | Beef, Chicken, Bacon and Fish                      |
 | Subscription | SIM, AMC and others                                |
 | Things       | Shopping and Entertainment                         |
+6537
+
+9133.18 till dec 29
+9187.90 till dec 28
 
 | Categories      | Individual | Family 2 pax |
 | --------------- | ---------- | ------------ |

@@ -3,4 +3,4 @@
 - [[TVK செயற்குழுக் கூட்டம் ]]
 [[Social Issues]]
 - [[Parandur Airport]]
-- 
+- [[Adani Bribes 2000+ crores for Solar Project]]

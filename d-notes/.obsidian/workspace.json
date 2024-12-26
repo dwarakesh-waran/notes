@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "467cb96cc8b6b6e5",
+        "id": "e222a753558fb10a",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc94b5c07f3d96d",
+            "id": "1f47dc9fe7e936e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Learning.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "My Learning"
-            }
-          },
-          {
-            "id": "e827d55e79b3e0a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kafka Interview Questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kafka Interview Questions"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "userid",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wealth/Capital Gains.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +98,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Capital Gains"
+              "title": "Backlinks"
             }
           },
           {
@@ -177,45 +157,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e827d55e79b3e0a4",
+  "active": "1f47dc9fe7e936e9",
   "lastOpenFiles": [
-    "My Learning.md",
-    "Kafka Interview Questions.md",
-    "My Wealth.md",
-    "wealth/Bank.md",
-    "wealth/Estimation of Average Monthly Costs.md",
-    "Pasted image 20241110103127.png",
-    "Pasted image 20241110103122.png",
-    "Pasted image 20241110103041.png",
-    "My USA Checklist.md",
-    "My Investment.md",
-    "code/How to consume messages from Kafka broker.md",
-    "code/Terminologies used in Kafka.md",
-    "My Project.md",
-    "Kafka's Post Office.md",
-    "code/Kafka.md",
-    "code/Problems tackled by Kafka.md",
-    "code/Kafka's Thumb Rules.md",
     "My Health.md",
-    "health/Vocal Cord Check Up List.md",
-    "PLSQL.md",
-    "PL/SQL.md",
-    "PL",
-    "code/Job Search.md",
-    "code/Job Application Updates.md",
-    "literature/TVK செயற்குழுக் கூட்டம்.md",
-    "literature/Parandur Airport.md",
-    "literature/TVK.md",
+    "personal/Yubikey.md",
+    "personal/Securing Proton Ecosystem.md",
+    "personal/Proton Ecosystem.md",
+    "wealth/401K.md",
+    "wealth/IRA withdrawal scenarios on Return to India.md",
+    "My Learning.md",
+    "code/Merge Sort.md",
+    "My Wealth.md",
+    "My Leisure.md",
+    "My Project.md",
+    "wealth/Types of Investment.md",
+    "My Security.md",
+    "personal/2FA.md",
+    "literature/Why Religion is Invented.md",
+    "wealth/Reason for Invest.md",
+    "My Investment.md",
+    "My Philosophy.md",
     "My Arasiyal.md",
-    "literature/Pasted image 20241103211504.png",
-    "health/Magnesium Benefits.md",
-    "code/Pasted image 20241026221009.png",
-    "health/Best and Worst Forms of Magnesium.md",
-    "Pasted image 20241103212117.png",
-    "Pasted image 20241103212212.png",
-    "Pasted image 20241103212040.png",
-    "Pasted image 20241103212205.png",
-    "Pasted image 20241103212140.png",
+    "My Aangilam.md",
+    "wealth/What to Invest In US.md",
+    "wealth/Investing in the US.md",
+    "Traditional 401k",
+    "wealth/Investment Taxation.md",
+    "wealth/Problems for NRIS in USA to Invest in India.md",
+    "personal/Alexandria, VA.md",
+    "health/Vocal Cord Check Up List.md",
+    "code/Pasted image 20241201224555.png",
+    "code/Pasted image 20241201224359.png",
+    "code/Pasted image 20241201224150.png",
+    "code/Pasted image 20241201224015.png",
+    "code/Pasted image 20241201223930.png",
+    "code/Pasted image 20241201223853.png",
+    "code/Pasted image 20241201223804.png",
+    "code/Pasted image 20241201201223.png",
+    "code/Pasted image 20241201223622.png",
+    "code/Pasted image 20241201200810.png",
+    "PL",
     "Untitled",
     "personal",
     "wealth/ultimate-index-fund-cheatsheet.pdf",
