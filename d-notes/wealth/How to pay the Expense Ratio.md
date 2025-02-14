@@ -1,4 +1,4 @@
-Topic: [[My Investment]]
+Topic: [[Investment]]
 ##### So, do we need to pay the $1 separately to the AMC on their website or will they deduct the amount from portfolio?
 
 No, the $1 won't get deducted from the portfolio and you don't have to pay them explicitly as well. 

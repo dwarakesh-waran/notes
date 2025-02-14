@@ -6,3 +6,6 @@
 #analogy is used to make a definition understand easier by given a similar real life scenario.
 #later is used to do a task in the future at any cost.
 #codecheck is used to review the statement related to programming later and make corrections if necessary.
+#date is used to mark down the events in my life in a note. This is to have a hint of nostalgia for to my notes.
+#resources is used in the bottom of a note which gives external link and resources (like youtube video link, blog post URL etc.,)
+#quote is used to denote a quote by a famous person.

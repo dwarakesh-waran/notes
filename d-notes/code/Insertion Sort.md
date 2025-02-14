@@ -1,4 +1,4 @@
-Topic: [[My Learning]]
+Topic: [[My Learning]], [[Sort]]
 
 To understand Insertion Sort better, think of arranging cards while you are playing rummy or other card games.
 

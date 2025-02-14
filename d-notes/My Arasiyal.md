@@ -4,3 +4,4 @@
 [[Social Issues]]
 - [[Parandur Airport]]
 - [[Adani Bribes 2000+ crores for Solar Project]]
+- [[New Orleans Terror Attack]]

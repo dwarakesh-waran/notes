@@ -1,4 +1,4 @@
-Topic: [[My Investment]]
+Topic: [[Investment]]
 
 Need to get familiar with the terms in Investment
 
