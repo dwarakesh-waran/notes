@@ -6,5 +6,6 @@
 	- [[Securing Proton Ecosystem]]
 	- [[Mail Filters]]
 - [[Zen Browser]]
+	- 
 	- [[Hover to get sidebar]]
 	- [[Stop asking for storing passwords]]

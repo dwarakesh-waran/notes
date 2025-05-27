@@ -8,49 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68643b3d3bf976f9",
+            "id": "d2fa066ac8d7729c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Health.md",
+                "file": "My Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Health"
+              "title": "My Learning"
             }
           },
           {
-            "id": "3f4d5e65ef275005",
+            "id": "707d02dad3155d06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "My Technology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "My Technology"
             }
           },
           {
-            "id": "abdd0f38db3763ce",
+            "id": "72bff450f32909ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gall Bladder (பித்தப்பை).md",
+                "file": "Raspberry Pi 5 Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gall Bladder (பித்தப்பை)"
+              "title": "Raspberry Pi 5 Setup"
+            }
+          },
+          {
+            "id": "334fc8314603cf4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design Patterns"
+            }
+          },
+          {
+            "id": "40bfad771600fcdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Java Interview Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Core Java Interview Questions"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,34 +220,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f4d5e65ef275005",
+  "active": "72bff450f32909ac",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Meal Prep.md",
-    "Gall Bladder (பித்தப்பை).md",
-    "My Health.md",
-    "health/Experiment with My Body.md",
+    "Raspberry Pi 5 Setup.md",
     "My Technology.md",
-    "Faraday Sleeve.md",
-    "Permutation and Combination.md",
-    "My Zettelkasten.md",
-    "My Learning.md",
-    "Combinatorial Enumeration.md",
-    "code/Recursion.md",
-    "code/IK.md",
-    "My Wealth.md",
-    "How Stock Market Works.md",
-    "How to evaluate a Stock.md",
-    "Untitled.md",
-    "wealth/Investment.md",
-    "wealth/Types of Investment.md",
-    "wealth/Securities.md",
-    "code/Merge Sort.md",
-    "wealth/Equity.md",
-    "wealth/Terms in Investment.md",
-    "wealth/NAV.md",
-    "wealth/Expense Ratio.md",
     "wealth/Bank.md",
+    "Design Patterns Interview Questions.md",
+    "Core Java Interview Questions.md",
+    "Design Patterns.md",
+    "My Learning.md",
+    "My Physical Things.md",
+    "Night Shift Plan.md",
+    "System Design.md",
+    "Untitled 1.md",
+    "Pasted image 20250504034456.png",
+    "Pasted image 20250504022129.png",
+    "Cryptographic Hash Functions.md",
+    "URL Shortener.md",
+    "code/Interview Hacks.md",
+    "Resume Preparation.md",
+    "Things I own.md",
+    "My Health.md",
+    "Meal Prep.md",
+    "personal/Address Change in USA.md",
+    "My USA Checklist.md",
+    "My Security.md",
+    "My Leisure.md",
+    "Mail Filters.md",
+    "Gall Bladder (பித்தப்பை).md",
+    "Untitled.md",
+    "Why do you need Meta.md",
     "Traditional 401k",
     "code/Pasted image 20241201224555.png",
     "code/Pasted image 20241201224359.png",
@@ -229,8 +259,6 @@
     "code/Pasted image 20241201223853.png",
     "code/Pasted image 20241201223804.png",
     "code/Pasted image 20241201201223.png",
-    "code/Pasted image 20241201223622.png",
-    "code/Pasted image 20241201200810.png",
     "PL",
     "Untitled",
     "personal",

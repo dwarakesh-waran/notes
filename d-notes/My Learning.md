@@ -1,3 +1,7 @@
+[[System Design]]
+[[Core Java Interview Questions]]
+[[Design Patterns]]
+- [[Design Patterns Interview Questions]]
 [[Time Complexity]]
 - [[Difference Between Theta, Big O and Omega Notation]]
 [[Space Complexity]]
